@@ -1,3 +1,10 @@
 body{
   font-family: Geogia, "Arial Narrow", sans-serif;
+}    
+i{
+  transition: all .3s;
+  color: black;
+}
+i:hover{
+  color: red;
 }
